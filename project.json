@@ -9,7 +9,7 @@
       "outputs": ["{options.outputPath}"],
       "defaultConfiguration": "production",
       "options": {
-        "outputPath": "dist/fcc-pomodor-clock"
+        "outputPath": "dist"
       },
       "configurations": {
         "development": {
